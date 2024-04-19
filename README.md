@@ -17,9 +17,11 @@ Libraries: Numpy, Pandas, Matplotlib, seaborn
 Goals Achieved: 
 GOAL 1: To calculate the average fare for each airline
 GOAL 2: To determine the number of flights operated by each airline.
-GOAL 3: To identify if there are any routes with a maximum fare significantly higher or lower than the average. 
-GOAL 4: To identify the number of fares for each airline that are more than the median fare of that airline’s flights.
-GOAL 5: To determine the minimum fare for each route.
+GOAL 3: To identify the number of fares for each airline that are more than the median fare of that airline’s flights.
+GOAL 4: To determine the minimum fare for each route.
+GOAL 5: How does the number of ticket purchases vary over time? Are there specific days or months when ticket purchases peak?
 GOAL 6: To find the average fare for each unique route, sorted from highest to lowest.
+GOAL 7: To identify any preferences among passengers for specific airlines, routes, or departure times.
+
 
 Link to the dataset: https://www.kaggle.com/datasets/ahsannawazch/airline-fare-prediction
